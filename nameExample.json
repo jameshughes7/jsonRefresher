@@ -1,0 +1,9 @@
+ {
+   "name":"James Hughes",
+   "age": "34",
+   "address":{
+        "street":"125 Trinity Road",
+        "city": "London"
+   },
+   "children":["Isabella","Gabriel"]
+ }
